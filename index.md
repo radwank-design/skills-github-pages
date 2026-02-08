@@ -1,5 +1,5 @@
 
-# Page Title
+
 A short intro sentence with **bold**, *italic*, and `inline code`.
 
 ## Section Heading
